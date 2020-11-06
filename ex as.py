@@ -1,0 +1,16 @@
+list = []
+
+cell_organism_bool = []
+type_of_diet = []
+size = []
+chlorophyll_percentage = []
+number_of_cells = []
+
+Bacteria = []
+Archaea = []
+Protista = []
+Chromista = []
+Plants = []
+Animals = []
+Fungi = []
+Viruses = []
