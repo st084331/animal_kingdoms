@@ -1,13 +1,12 @@
 list = []
 
-cell_organism_bool = []
+type_of_diet = []
 cyst_formation = []
-size = []
+chitin = []
 core_alability = []
 presence_of_pseudomurein = []
 eterna_growth = []
-chlorophyll_percentage = []
-number_of_cells = []
+chlorophyll_type = []
 
 Bacteria = []
 Archaea = []
@@ -17,3 +16,4 @@ Plants = []
 Animals = []
 Fungi = []
 Viruses = []
+
