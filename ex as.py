@@ -1,8 +1,11 @@
 list = []
 
 cell_organism_bool = []
-type_of_diet = []
+cyst_formation = []
 size = []
+core_alability = []
+presence_of_pseudomurein = []
+eterna_growth = []
 chlorophyll_percentage = []
 number_of_cells = []
 
