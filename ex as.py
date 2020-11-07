@@ -29,7 +29,7 @@ with open('animals - Лист1.csv') as csvfile:
         eterna_growth.append(int(row['eterna_growth']))
         chlorophyll_type.append(row['chlorophyll_type'])
 
-for obj in range(150):
+for obj in range(len(chitin)):
     if(type_of_diet[obj] == '-'):
         Viruses.append(obj)
     elif(type_of_diet[obj] == 'A'):
@@ -68,3 +68,5 @@ print('Plants', Plants)
 print('Animals', Animals)
 print('Fungi', Fungi)
 print('Viruses', Viruses)
+#print(len(Viruses) + len(Bacteria) + len(Archaea) + len(Protista)
+#      + len(Chromista) + len(Animals) + len(Plants) + len(Fungi))
