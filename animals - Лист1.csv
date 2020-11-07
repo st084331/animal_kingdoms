@@ -71,7 +71,7 @@ id,cyst_formation,chitin,core_alability,presence_of_pseudomurein,eterna_growth,c
 69,0,0,1,0,0,-,Г
 70,0,0,1,0,0,-,Г
 71,1,0,1,0,0,-,М
-72,0,0,1,0,1,b,M
+72,0,0,1,0,1,b,A
 73,1,0,1,0,0,-,М
 74,0,0,1,0,0,c,М
 75,0,1,1,0,1,-,Г
@@ -96,7 +96,7 @@ id,cyst_formation,chitin,core_alability,presence_of_pseudomurein,eterna_growth,c
 94,1,0,0,0,0,а,М
 95,1,0,1,0,0,-,Г
 96,1,0,1,0,0,с,А
-97,0,0,1,0,1,b,M
+97,0,0,1,0,1,b,A
 98,1,0,0,0,0,-,-
 99,1,0,1,0,0,-,Г
 100,1,1,0,0,0,b,M
@@ -141,7 +141,7 @@ id,cyst_formation,chitin,core_alability,presence_of_pseudomurein,eterna_growth,c
 139,0,1,1,0,1,-,Г
 140,0,0,1,0,0,-,Г
 141,0,0,1,0,0,-,Г
-142,0,0,1,0,1,b,M
+142,0,0,1,0,1,b,A
 143,0,0,0,1,0,a,А
 144,0,0,1,0,0,c,М
 145,0,0,1,0,1,a,A
