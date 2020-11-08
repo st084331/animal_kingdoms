@@ -1,5 +1,6 @@
 import csv
 
+
 Bacteria = []
 Archaea = []
 Protista = []
@@ -9,6 +10,7 @@ Animals = []
 Fungi = []
 Viruses = []
 
+
 type_of_diet = []
 cyst_formation = []
 chitin = []
@@ -16,6 +18,7 @@ core_alability = []
 presence_of_pseudomurein = []
 eterna_growth = []
 chlorophyll_type = []
+
 
 # Чтение csv файла и рассортировка данных
 with open('animals - Лист1.csv') as csvfile:
@@ -28,6 +31,7 @@ with open('animals - Лист1.csv') as csvfile:
         presence_of_pseudomurein.append(int(row['presence_of_pseudomurein']))
         eterna_growth.append(int(row['eterna_growth']))
         chlorophyll_type.append(row['chlorophyll_type'])
+
 
 for obj in range(len(chitin)):
     if(type_of_diet[obj] == '-'):
@@ -59,6 +63,7 @@ for obj in range(len(chitin)):
                     Animals.append(obj)
                 else:
                     Chromista.append(obj)
+
 
 print('Bacteria', Bacteria)
 print('Archaea', Archaea)
